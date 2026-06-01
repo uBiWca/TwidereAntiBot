@@ -17,7 +17,7 @@
 ## Установка ##
 [APK брать здесь.](https://github.com/uBiWca/TwidereAntiBot/raw/master/twidere/google/release/twidere-google-release.apk)
 ## Контакты ##
-[Мой твиттер](https://twitter.com/CrashOv44976865)
+
 ## Лицензия ##
 Приложение распостраняется "как есть", никаких гарантий нет и не будет.
 GNU GPL v3
